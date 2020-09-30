@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ramkrishna Pednekar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full stack from India</h3>
 
 - 🔭 I’m currently working on [ShortSip](shortsip.com)
 
