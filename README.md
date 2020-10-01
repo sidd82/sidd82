@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [ShortSip](shortsip.com)
 
-- 🌱 I’m currently learning **Microservices Design Pattern, Kotlin,AWS**
+- 🌱 I’m currently learning **Microservices Design Pattern, Kotlin, AWS**
 
 - 💬 Ask me about **Node js, React, Dart, Flutter**
 
