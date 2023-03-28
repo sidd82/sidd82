@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ramkrishna Pednekar</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🔭 I’m currently working on [Plugio](plugio.in)
+- 🔭 I’m currently working on [AiBoat](aiboat.io)
 
 - 🌱 I’m currently learning **Microservices Design Pattern, Kotlin, AWS**
 
